@@ -1,5 +1,5 @@
 # ANN and Deep Architectures
-Labs for DD2437_22vt at KTH
+Labs for DD2437_22vt
 
 This repo contains the individual work contribution to the group project.
 
